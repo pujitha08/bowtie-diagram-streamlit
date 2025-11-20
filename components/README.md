@@ -10,7 +10,7 @@ Our bow tie risk story focuses on a rideshare scenario where small failures duri
 
 ## Live Application
 
-**Streamlit App:** [PLACEHOLDER - Add your Streamlit link here]
+**Streamlit App:** https://bowtie-diagram-app-reactflow-team02.streamlit.app/
 
 ## Features
 
